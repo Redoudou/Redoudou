@@ -1,0 +1,35 @@
+{
+  "220839231": {
+    "category": "housing",
+    "description": "An earlier smart contract project for OpenRent."
+  },
+  "628825567": {
+    "category": "tools",
+    "title": "WhatsApp Web Checker"
+  },
+  "629256043": {
+    "category": "web",
+    "title": "Personal website",
+    "description": "My personal website, built with Jekyll.",
+    "demo": "https://helloredwan.me"
+  },
+  "870913967": {
+    "category": "zk",
+    "title": "Sprinter Playground",
+    "description": "Interactive journeys through liquidity, credit, and cross-chain transfers, with a separate live Credit workspace."
+  },
+  "1306131935": {
+    "category": "tools",
+    "title": "Frame of Mind"
+  },
+  "1408271121": {
+    "category": "learning",
+    "description": "Hands-on experiments exploring the physics behind Spider-Man. Built for curious kids, in French.",
+    "demo": "https://spiderpoutine.helloredwan.me"
+  },
+  "1408753093": {
+    "category": "housing",
+    "title": "Housingproof",
+    "description": "A new housing project, just getting started."
+  }
+}
