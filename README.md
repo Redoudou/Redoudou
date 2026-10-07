@@ -11,82 +11,66 @@ What you’ll find here:
 - **Research made concrete.** Writing on capital market infrastructure and Ethereum governance, alongside prototypes for reusable investor eligibility with ERC-3643 and EAS, and Ethereum settlement for AI agent payments. I help convene standards and working-group efforts, then build ways to explore their work.
 - **Personal experiments in privacy and beyond.** Green Light generates on-device ZK proofs for age verification. Housingproof explores private answers from NYC housing filings. Other projects range from housing accountability to photo-printing tools and physics for kids.
 
-[Personal projects](#personal-projects) · [Built for the EEA](#built-for-the-eea) · [Writing & research](#writing--research) · [Blog & portfolio](https://helloredwan.me/) · [LinkedIn](https://www.linkedin.com/in/redwanmeslem/)
+[Explore by domain](#explore-by-domain) · [Blog & portfolio](https://helloredwan.me/) · [LinkedIn](https://www.linkedin.com/in/redwanmeslem/)
 
-## Personal projects
+## Explore by domain
+
+Tools, research, and experiments grouped by the problems they tackle. Labels show personal work, EEA resources, and writing.
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="assets/zk.svg" alt="Zero-knowledge &amp; Ethereum" width="420"><br>
-<p><strong><a href="https://github.com/Redoudou/sprinter-demo">Sprinter Playground</a></strong><br>A hands-on way to explore liquidity, credit, and cross-chain transfers.<br><a href="https://github.com/Redoudou/sprinter-demo">Code →</a></p>
-<p><strong><a href="https://github.com/Redoudou/upgraded-broccoli-zkid">Green Light</a></strong><br>Prove you’re over 21 without sharing your ID. Real on-device ZK proofs, with a test credential and simulated wallet.<br><a href="https://github.com/Redoudou/upgraded-broccoli-zkid">Code →</a></p>
+<td width="50%" valign="top"><img src="assets/markets.svg" alt="Capital markets &amp; payments" width="420"><br>
+<p><strong><a href="https://github.com/Redoudou/sprinter-demo">Sprinter Playground</a></strong> <sub>Personal · Code</sub><br>A hands-on way to explore liquidity, credit, and cross-chain transfers.<br><a href="https://github.com/Redoudou/sprinter-demo">Code →</a></p>
+<p><strong><a href="https://hub.entethalliance.org/rialto-ap2-eth/">Ethereum Settlement for AI Agent Payments</a></strong> <sub>EEA · Tool / resource</sub><br>Rialto explores how to tie an AI agent’s permission to one exact Ethereum payment.</p>
+<p><strong><a href="https://hub.entethalliance.org/ops-finance/ethereum-101.html">Ethereum for Institutions</a></strong> <sub>EEA · Tool / resource</sub><br>An interactive starting point for teams trying to understand where Ethereum fits.</p>
+<p><strong><a href="https://hub.entethalliance.org/ops-finance/finance.html">Global Finance Infrastructure Map</a></strong> <sub>EEA · Tool / resource</sub><br>Explore how money moves through the institutions and infrastructure behind global finance.</p>
+<p><strong><a href="https://hub.entethalliance.org/ops-finance/institutional-crypto-market.html">Institutional Digital Asset Market Map</a></strong> <sub>EEA · Tool / resource</sub><br>Navigate the companies and infrastructure serving institutional digital assets.</p>
+<p><strong><a href="https://hub.entethalliance.org/ops-finance/crypto-custody/index.html">Digital Asset Custody Guide</a></strong> <sub>EEA · Tool / resource</sub><br>Compare custody models and understand the choices behind holding digital assets.</p>
+<p><strong><a href="https://hub.entethalliance.org/ops-finance/trellis/index.html">Ethereum Layer 2 Network Map</a></strong> <sub>EEA · Tool / resource</sub><br>Find your bearings across Ethereum’s Layer 2 networks.</p>
+<p><strong><a href="https://intelligence.entethalliance.org/gas-simulator.html">Ethereum Gas Fee Calculator</a></strong> <sub>EEA · Tool / resource</sub><br>Explore how proposed EIP-2780 changes could affect transaction costs.</p>
 </td>
+<td width="50%" valign="top"><img src="assets/privacy.svg" alt="Privacy &amp; identity" width="420"><br>
+<p><strong><a href="https://github.com/Redoudou/upgraded-broccoli-zkid">Green Light</a></strong> <sub>Personal · Code</sub><br>Prove you’re over 21 without sharing your ID. Real on-device ZK proofs, with a test credential and simulated wallet.<br><a href="https://github.com/Redoudou/upgraded-broccoli-zkid">Code →</a></p>
+<p><strong><a href="https://hub.entethalliance.org/rnd-rwa-erc3643-eas/">Tokenized Asset Investor Eligibility Prototype</a></strong> <sub>EEA · Tool / resource</sub><br>Can an investor reuse an eligibility check across issuers? Shibui explores ERC-3643 with Ethereum attestations.</p>
+<p><strong><a href="https://hub.entethalliance.org/wg-privacy/privacy-report.html">Ethereum Privacy Technology Report</a></strong> <sub>EEA · Collaborative report</sub><br>Compare approaches to privacy on Ethereum in an interactive working-group report.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="assets/operations.svg" alt="Intelligence &amp; operations" width="420"><br>
+<p><strong><a href="https://intelligence.entethalliance.org/">Ethereum Intelligence</a></strong> <sub>EEA · Tool / resource</sub><br>A place for institutions to understand Ethereum changes and bring their questions to the community.</p>
+<p><strong><a href="https://hub.entethalliance.org/ops-policy-friday/">Policy Friday: digital asset policy</a></strong> <sub>EEA · Tool / resource</sub><br>A weekly view of digital asset policy. 94 signals across 24 editions through September 2026.</p>
+<p><strong><a href="https://prospector.entethalliance.org/">EEA Prospector: RFI &amp; RFP scanner</a></strong> <sub>EEA · Tool / resource</sub><br>Find consultations, RFIs, and tenders worth acting on. Checks 50+ public sources weekly, from central banks to procurement portals.</p>
+<p><strong><a href="https://hub.entethalliance.org/pages-index/">Directory of EEA Sites on GitHub Pages</a></strong> <sub>EEA · Tool / resource</sub><br>One index for the EEA’s published tools, guides, and research sites.</p>
+<p><strong><a href="https://hub.entethalliance.org/ops-finance/agents.html">AI Agents on Ethereum Guide</a></strong> <sub>EEA · Tool / resource</sub><br>Explore how AI agents can use Ethereum for payments and coordination.</p>
+<p><strong><a href="https://hub.entethalliance.org/ops-solution-catalog/">Ethereum Solution Catalog</a></strong> <sub>EEA · Tool / resource</sub><br>Browse Ethereum solutions by the problem you’re trying to solve.</p>
+<p><strong><a href="https://helloredwan.me/ai-operations.html">AI &amp; Operations</a></strong> <sub>Writing</sub><br>How I use AI to turn recurring work into useful tools.</p>
+</td>
+<td width="50%" valign="top"><img src="assets/standards.svg" alt="Governance &amp; standards" width="420"><br>
+<p><strong><a href="https://hub.entethalliance.org/wg-ethtrust-site/">EthTrust Smart Contract Security Standard</a></strong> <sub>EEA · Shared standard</sub><br>A web guide to the EEA’s shared requirements for smart contract security.</p>
+<p><strong><a href="https://hub.entethalliance.org/crosschain-interoperability/">Crosschain Interoperability Standard</a></strong> <sub>EEA · Shared standard</sub><br>Explore the EEA’s shared framework for connecting blockchain networks.</p>
+<p><strong><a href="https://intelligence.entethalliance.org/eip-matrix.html">The EIP Matrix</a></strong> <sub>EEA · Tool / resource</sub><br>See what Ethereum proposals mean for your product, costs, and infrastructure.</p>
+<p><strong><a href="https://intelligence.entethalliance.org/atlas.html">Ethereum Atlas</a></strong> <sub>EEA · Tool / resource</sub><br>Find your way through Ethereum upgrades: who participates, who decides, and where to get involved.</p>
+<p><strong><a href="https://redoudou.github.io/Ethereum-Governance-Futures/">Ethereum Governance Futures</a></strong> <sub>Writing</sub><br>Who takes responsibility for Ethereum’s future? My personal working draft on governance and participation.</p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top"><img src="assets/housing.svg" alt="Housing &amp; civic tech" width="420"><br>
-<p><strong>Lease on the Block</strong><br>Follow the links between rent, public benefits, and building accountability. An interactive demo with fictional data.<br><a href="https://leaseontheblock.care/">Visit website ↗</a></p>
-<p><strong><a href="https://github.com/Redoudou/housingproof">Housingproof</a></strong><br>Can NYC agencies get answers from an RPIE filing without seeing it? A demo with synthetic data; ZK proofs are still to come.<br><a href="https://github.com/Redoudou/housingproof">Code →</a></p>
+<p><strong>Lease on the Block</strong> <sub>Personal · Demo</sub><br>Follow the links between rent, public benefits, and building accountability. An interactive demo with fictional data.<br><a href="https://leaseontheblock.care/">Visit website ↗</a></p>
+<p><strong><a href="https://github.com/Redoudou/housingproof">Housingproof</a></strong> <sub>Personal · Code</sub><br>Can NYC agencies get answers from an RPIE filing without seeing it? A demo with synthetic data; ZK proofs are still to come.<br><a href="https://github.com/Redoudou/housingproof">Code →</a></p>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top"><img src="assets/tools.svg" alt="Everyday tools" width="420"><br>
-<p><strong><a href="https://github.com/Redoudou/frame-of-mind">Frame of Mind</a></strong><br>Frame of Mind : local web app that turns one photo into a pixel-exact print order for your print shop<br><a href="https://github.com/Redoudou/frame-of-mind">Code →</a> &nbsp;·&nbsp; <a href="https://redoudou.github.io/frame-of-mind/">Open project ↗</a></p>
-<p><strong><a href="https://github.com/Redoudou/whatsapp-web-checker">WhatsApp Web Checker</a></strong><br>A lightweight, privacy-friendly WhatsApp chat-link generator. No contact saving, backend, or dependencies.<br><a href="https://github.com/Redoudou/whatsapp-web-checker">Code →</a> &nbsp;·&nbsp; <a href="https://helloredwan.me/whatsapp-web-checker/">Open project ↗</a></p>
-</td>
-<td width="50%" valign="top"><img src="assets/learning.svg" alt="Learning &amp; experiments" width="420"><br>
-<p><strong><a href="https://github.com/Redoudou/Spiderpoutine">Spiderpoutine</a></strong><br>Spider-Man physics for curious kids. Interactive experiments, in French.<br><a href="https://github.com/Redoudou/Spiderpoutine">Code →</a> &nbsp;·&nbsp; <a href="https://spiderpoutine.helloredwan.me">Open project ↗</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><img src="assets/web.svg" alt="Web &amp; personal projects" width="420"><br>
-<p><strong><a href="https://github.com/Redoudou/redoudou.github.io">Personal website</a></strong> · Fork<br>My home on the web: projects, writing, and things I’m figuring out.<br><a href="https://github.com/Redoudou/redoudou.github.io">Code →</a> &nbsp;·&nbsp; <a href="https://helloredwan.me">Open project ↗</a></p>
+<td width="50%" valign="top"><img src="assets/tools.svg" alt="Everyday tools &amp; learning" width="420"><br>
+<p><strong><a href="https://github.com/Redoudou/frame-of-mind">Frame of Mind</a></strong> <sub>Personal · Code</sub><br>Frame of Mind : local web app that turns one photo into a pixel-exact print order for your print shop<br><a href="https://github.com/Redoudou/frame-of-mind">Code →</a> &nbsp;·&nbsp; <a href="https://redoudou.github.io/frame-of-mind/">Open project ↗</a></p>
+<p><strong><a href="https://github.com/Redoudou/redoudou.github.io">Personal website</a></strong> · Fork <sub>Personal · Code</sub><br>My home on the web: projects, writing, and things I’m figuring out.<br><a href="https://github.com/Redoudou/redoudou.github.io">Code →</a> &nbsp;·&nbsp; <a href="https://helloredwan.me">Open project ↗</a></p>
+<p><strong><a href="https://github.com/Redoudou/Spiderpoutine">Spiderpoutine</a></strong> <sub>Personal · Code</sub><br>Spider-Man physics for curious kids. Interactive experiments, in French.<br><a href="https://github.com/Redoudou/Spiderpoutine">Code →</a> &nbsp;·&nbsp; <a href="https://spiderpoutine.helloredwan.me">Open project ↗</a></p>
+<p><strong><a href="https://github.com/Redoudou/whatsapp-web-checker">WhatsApp Web Checker</a></strong> <sub>Personal · Code</sub><br>A lightweight, privacy-friendly WhatsApp chat-link generator. No contact saving, backend, or dependencies.<br><a href="https://github.com/Redoudou/whatsapp-web-checker">Code →</a> &nbsp;·&nbsp; <a href="https://helloredwan.me/whatsapp-web-checker/">Open project ↗</a></p>
 </td>
 </tr>
 </table>
 
-## Built for the EEA
+I built the EEA websites and tools linked here. EEA standards and working-group reports are collective work.
 
-I build tools that make Ethereum easier to understand and use. These live in the [EEA Resource Hub](https://hub.entethalliance.org/). I built the websites; the standards and working-group reports are a team effort.
-
-### Stay current
-
-- **[Ethereum Intelligence](https://intelligence.entethalliance.org/)**: A place for institutions to understand Ethereum changes and bring their questions to the community.
-- **[Policy Friday: digital asset policy](https://hub.entethalliance.org/ops-policy-friday/)**: A weekly view of digital asset policy. 94 signals across 24 editions through September 2026.
-- **[EEA Prospector: RFI & RFP scanner](https://prospector.entethalliance.org/)**: Find consultations, RFIs, and tenders worth acting on. Checks 50+ public sources weekly, from central banks to procurement portals.
-### Research
-
-- **[Tokenized Asset Investor Eligibility Prototype](https://hub.entethalliance.org/rnd-rwa-erc3643-eas/)**: Can an investor reuse an eligibility check across issuers? Shibui explores ERC-3643 with Ethereum attestations.
-- **[Ethereum Settlement for AI Agent Payments](https://hub.entethalliance.org/rialto-ap2-eth/)**: Rialto explores how to tie an AI agent’s permission to one exact Ethereum payment.
-- **[Directory of EEA Sites on GitHub Pages](https://hub.entethalliance.org/pages-index/)**: One index for the EEA’s published tools, guides, and research sites.
-### Learn
-
-- **[Ethereum for Institutions](https://hub.entethalliance.org/ops-finance/ethereum-101.html)**: An interactive starting point for teams trying to understand where Ethereum fits.
-- **[Global Finance Infrastructure Map](https://hub.entethalliance.org/ops-finance/finance.html)**: Explore how money moves through the institutions and infrastructure behind global finance.
-- **[AI Agents on Ethereum Guide](https://hub.entethalliance.org/ops-finance/agents.html)**: Explore how AI agents can use Ethereum for payments and coordination.
-### Market maps
-
-- **[Institutional Digital Asset Market Map](https://hub.entethalliance.org/ops-finance/institutional-crypto-market.html)**: Navigate the companies and infrastructure serving institutional digital assets.
-- **[Digital Asset Custody Guide](https://hub.entethalliance.org/ops-finance/crypto-custody/index.html)**: Compare custody models and understand the choices behind holding digital assets.
-- **[Ethereum Layer 2 Network Map](https://hub.entethalliance.org/ops-finance/trellis/index.html)**: Find your bearings across Ethereum’s Layer 2 networks.
-- **[Ethereum Solution Catalog](https://hub.entethalliance.org/ops-solution-catalog/)**: Browse Ethereum solutions by the problem you’re trying to solve.
-### Standards &amp; working groups
-
-- **[EthTrust Smart Contract Security Standard](https://hub.entethalliance.org/wg-ethtrust-site/)**: A web guide to the EEA’s shared requirements for smart contract security.
-- **[Crosschain Interoperability Standard](https://hub.entethalliance.org/crosschain-interoperability/)**: Explore the EEA’s shared framework for connecting blockchain networks.
-- **[Ethereum Privacy Technology Report](https://hub.entethalliance.org/wg-privacy/privacy-report.html)**: Compare approaches to privacy on Ethereum in an interactive working-group report.
-### More tools I built
-
-- **[The EIP Matrix](https://intelligence.entethalliance.org/eip-matrix.html)**: See what Ethereum proposals mean for your product, costs, and infrastructure.
-- **[Ethereum Gas Fee Calculator](https://intelligence.entethalliance.org/gas-simulator.html)**: Explore how proposed EIP-2780 changes could affect transaction costs.
-- **[Ethereum Atlas](https://intelligence.entethalliance.org/atlas.html)**: Find your way through Ethereum upgrades: who participates, who decides, and where to get involved.
-
-## Writing & research
-
-- **[Ethereum Governance Futures](https://redoudou.github.io/Ethereum-Governance-Futures/)**: Who takes responsibility for Ethereum’s future? My personal working draft on governance and participation.
-- **[AP2 for Ethereum Settlement: Rialto](https://hub.entethalliance.org/rialto-ap2-eth/)**: How can an AI agent authorize one exact Ethereum payment? My research prototype.
-- **[AI & Operations](https://helloredwan.me/ai-operations.html)**: How I use AI to turn recurring work into useful tools.
-- **[State of Privacy on Ethereum for Enterprise](https://hub.entethalliance.org/wg-privacy/privacy-report.html)**: A collaborative EEA report. I led the working group and built the web experience.
-
-[More on my blog & portfolio →](https://helloredwan.me/) · [Speaking & media →](https://helloredwan.me/speaking-media.html)
+[Blog & portfolio →](https://helloredwan.me/) · [EEA Resource Hub →](https://hub.entethalliance.org/) · [Speaking & media →](https://helloredwan.me/speaking-media.html)
 
 [Browse public code →](https://github.com/Redoudou?tab=repositories&type=public)
 
-<sub>Public repositories and the EEA Hub refresh daily. Curated public websites and writing remain featured even when their source code is private.</sub>
+<sub>Public repositories and the EEA Hub refresh daily. Public websites and writing stay featured even when their code is private.</sub>

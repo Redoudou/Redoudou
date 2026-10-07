@@ -4,7 +4,7 @@
 
 The profile is a portfolio, not just a public repository list. `portfolio.json` holds explicitly selected public websites and writing, including projects whose source code is private. Do not add private source links or operational details. These entries are preserved on every refresh.
 
-The daily refresh also reads resource cards from https://hub.entethalliance.org/ and keeps their public destinations, titles, descriptions, and groupings current. A failed fetch or unrecognized hub layout stops the update and preserves the existing README. EEA standards and reports retain collective attribution.
+The daily refresh also reads resource cards from https://hub.entethalliance.org/ and keeps their public destinations, titles, descriptions, current; editorial domain assignments keep the portfolio grouped by subject. A failed fetch or unrecognized hub layout stops the update and preserves the existing README. EEA standards and reports retain collective attribution.
 
 Set `hide: true` on a repository ID in profile.json to omit an old project without changing or deleting its repository.
 
@@ -27,3 +27,7 @@ Use HTTPS demo URLs. The daily refresh updates metadata and links; it does not g
 ## Local check
 
 Run `python3 scripts/update_profile.py` with Python 3. The script has no third-party dependencies and fails without overwriting the README if GitHub cannot return a complete repository listing.
+
+## Domain cards
+
+The published portfolio combines repositories, EEA resources, and writing into six domain cards. Personal and EEA labels preserve attribution. Set `domain` on a repository override, curated project, EEA extra, writing entry, or hub_editorial entry to choose markets, privacy, operations, standards, housing, or tools. Existing profile topic categories still map into these domains. New hub resources default to intelligence and operations unless their title identifies another domain. Research links already present in the hub appear once.

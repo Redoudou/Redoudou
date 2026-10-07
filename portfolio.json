@@ -12,19 +12,22 @@
       "title": "The EIP Matrix",
       "url": "https://intelligence.entethalliance.org/eip-matrix.html",
       "section": "More tools I built",
-      "description": "See what Ethereum proposals mean for your product, costs, and infrastructure."
+      "description": "See what Ethereum proposals mean for your product, costs, and infrastructure.",
+      "domain": "standards"
     },
     {
       "title": "Ethereum Gas Fee Calculator",
       "url": "https://intelligence.entethalliance.org/gas-simulator.html",
       "section": "More tools I built",
-      "description": "Explore how proposed EIP-2780 changes could affect transaction costs."
+      "description": "Explore how proposed EIP-2780 changes could affect transaction costs.",
+      "domain": "markets"
     },
     {
       "title": "Ethereum Atlas",
       "url": "https://intelligence.entethalliance.org/atlas.html",
       "section": "More tools I built",
-      "description": "Find your way through Ethereum upgrades: who participates, who decides, and where to get involved."
+      "description": "Find your way through Ethereum upgrades: who participates, who decides, and where to get involved.",
+      "domain": "standards"
     }
   ],
   "writing": [
@@ -66,7 +69,8 @@
       "verified": "2026-10-07"
     },
     "Tokenized Asset Investor Eligibility Prototype": {
-      "description": "Can an investor reuse an eligibility check across issuers? Shibui explores ERC-3643 with Ethereum attestations."
+      "description": "Can an investor reuse an eligibility check across issuers? Shibui explores ERC-3643 with Ethereum attestations.",
+      "domain": "privacy"
     },
     "Ethereum Settlement for AI Agent Payments": {
       "description": "Rialto explores how to tie an AI agent’s permission to one exact Ethereum payment."
@@ -75,7 +79,8 @@
       "description": "One index for the EEA’s published tools, guides, and research sites."
     },
     "Ethereum for Institutions": {
-      "description": "An interactive starting point for teams trying to understand where Ethereum fits."
+      "description": "An interactive starting point for teams trying to understand where Ethereum fits.",
+      "domain": "markets"
     },
     "Global Finance Infrastructure Map": {
       "description": "Explore how money moves through the institutions and infrastructure behind global finance."
@@ -93,7 +98,8 @@
       "description": "Find your bearings across Ethereum’s Layer 2 networks."
     },
     "Ethereum Solution Catalog": {
-      "description": "Browse Ethereum solutions by the problem you’re trying to solve."
+      "description": "Browse Ethereum solutions by the problem you’re trying to solve.",
+      "domain": "operations"
     },
     "EthTrust Smart Contract Security Standard": {
       "description": "A web guide to the EEA’s shared requirements for smart contract security."

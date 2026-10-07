@@ -41,5 +41,20 @@ class ProfileTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             hub_cards('<html>Unavailable</html>')
 
+    def test_domains_combine_sources_without_duplicate_research(self):
+        url = 'https://demo.example/research'
+        result = generate(
+            [{'id':1,'name':'green-light','html_url':'https://github.com/Redoudou/green-light'}],
+            {'1':{'category':'zk','title':'Green Light'}},
+            {'writing':[{'title':'Research duplicate','url':url,'description':'Writing'}]},
+            [{'title':'Investor Eligibility','url':url,'section':'Research','description':'Reusable checks'}])
+        privacy = result.split('alt="Privacy &amp; identity"')[1].split('</td>')[0]
+        self.assertIn('Green Light', privacy)
+        self.assertIn('Investor Eligibility', privacy)
+        self.assertIn('Personal · Code', privacy)
+        self.assertIn('EEA ·', privacy)
+        self.assertNotIn('Research duplicate', result)
+        self.assertNotIn('—', result)
+
 if __name__ == '__main__':
     unittest.main()
