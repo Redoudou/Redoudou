@@ -16,6 +16,7 @@ Brooklyn · Executive Director, [Enterprise Ethereum Alliance](https://entethall
 <td width="50%" valign="top"><img src="assets/zk.svg" alt="Zero-knowledge &amp; Ethereum" width="420"><br>
 <p><strong>Green Light</strong><br>A personal ZK age-verification prototype: proving you are over 21 without handing a venue a copy of your ID. Experimental, not a production service.<br>Public website link coming soon</p>
 <p><strong><a href="https://github.com/Redoudou/sprinter-demo">Sprinter Playground</a></strong><br>Interactive journeys through liquidity, credit, and cross-chain transfers, with a separate live Credit workspace.<br><a href="https://github.com/Redoudou/sprinter-demo">Code →</a></p>
+<p><strong><a href="https://github.com/Redoudou/upgraded-broccoli-zkid">upgraded-broccoli-zkid</a></strong><br>A project in progress. Explore the repository for details.<br><a href="https://github.com/Redoudou/upgraded-broccoli-zkid">Code →</a></p>
 </td>
 <td width="50%" valign="top"><img src="assets/housing.svg" alt="Housing &amp; civic tech" width="420"><br>
 <p><strong>Lease on the Block</strong><br>An interactive housing-accountability demo connecting rent records, public benefits, tenants, owners, and agencies. Fictional data and a simulated ledger.<br><a href="https://leaseontheblock.care/">Visit website ↗</a></p>
