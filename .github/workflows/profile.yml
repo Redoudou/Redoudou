@@ -1,3 +1,4 @@
+# Keep the public project directory current.
 name: Refresh profile
 on:
   schedule:
