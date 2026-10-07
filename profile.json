@@ -1,5 +1,6 @@
 {
   "220839231": {
+    "hide": true,
     "category": "housing",
     "description": "An earlier smart contract project for OpenRent."
   },
@@ -31,6 +32,6 @@
   "1408753093": {
     "category": "housing",
     "title": "Housingproof",
-    "description": "A new housing project, just getting started."
+    "description": "RPIE privacy prototype: exploring how an agency could answer fixed questions about a housing filing without receiving the filing. Synthetic data; working ZK proof generation is not yet implemented."
   }
 }
