@@ -11,13 +11,13 @@
   "629256043": {
     "category": "web",
     "title": "Personal website",
-    "description": "My personal website, built with Jekyll.",
+    "description": "My home on the web: projects, writing, and things I’m figuring out.",
     "demo": "https://helloredwan.me"
   },
   "870913967": {
     "category": "zk",
     "title": "Sprinter Playground",
-    "description": "Interactive journeys through liquidity, credit, and cross-chain transfers, with a separate live Credit workspace.",
+    "description": "A hands-on way to explore liquidity, credit, and cross-chain transfers.",
     "blocked_demo": "https://helloredwan.me/sprinter-demo/"
   },
   "1306131935": {
@@ -26,17 +26,17 @@
   },
   "1408271121": {
     "category": "learning",
-    "description": "Hands-on experiments exploring the physics behind Spider-Man. Built for curious kids, in French.",
+    "description": "Spider-Man physics for curious kids. Interactive experiments, in French.",
     "demo": "https://spiderpoutine.helloredwan.me"
   },
   "1408753093": {
     "category": "housing",
     "title": "Housingproof",
-    "description": "RPIE privacy prototype: exploring how an agency could answer fixed questions about a housing filing without receiving the filing. Synthetic data; working ZK proof generation is not yet implemented."
+    "description": "Can NYC agencies get answers from an RPIE filing without seeing it? A demo with synthetic data; ZK proofs are still to come."
   },
   "1354274257": {
     "category": "zk",
     "title": "Green Light",
-    "description": "A personal ZK age-verification prototype: proving you are over 21 without handing a venue a copy of your ID. Experimental, not a production service."
+    "description": "Prove you’re over 21 without sharing your ID. Real on-device ZK proofs, with a test credential and simulated wallet."
   }
 }

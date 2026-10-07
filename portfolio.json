@@ -3,7 +3,7 @@
     {
       "title": "Lease on the Block",
       "category": "housing",
-      "description": "An interactive housing-accountability demo connecting rent records, public benefits, tenants, owners, and agencies. Fictional data and a simulated ledger.",
+      "description": "Follow the links between rent, public benefits, and building accountability. An interactive demo with fictional data.",
       "url": "https://leaseontheblock.care/"
     }
   ],
@@ -12,41 +12,97 @@
       "title": "The EIP Matrix",
       "url": "https://intelligence.entethalliance.org/eip-matrix.html",
       "section": "More tools I built",
-      "description": "Ethereum proposals translated into implications for infrastructure, product design, cost, and risk."
+      "description": "See what Ethereum proposals mean for your product, costs, and infrastructure."
     },
     {
       "title": "Ethereum Gas Fee Calculator",
       "url": "https://intelligence.entethalliance.org/gas-simulator.html",
       "section": "More tools I built",
-      "description": "An interactive model of proposed EIP-2780 transaction-cost changes."
+      "description": "Explore how proposed EIP-2780 changes could affect transaction costs."
     },
     {
       "title": "Ethereum Atlas",
       "url": "https://intelligence.entethalliance.org/atlas.html",
       "section": "More tools I built",
-      "description": "A map of Ethereum upgrade participants, decisions, and institutional participation."
+      "description": "Find your way through Ethereum upgrades: who participates, who decides, and where to get involved."
     }
   ],
   "writing": [
     {
       "title": "Ethereum Governance Futures",
       "url": "https://redoudou.github.io/Ethereum-Governance-Futures/",
-      "description": "My working research draft on Ethereum governance, responsibility, participation, and resilience. Personal research, not an EEA position."
+      "description": "Who takes responsibility for Ethereum’s future? My personal working draft on governance and participation."
     },
     {
-      "title": "AP2 for Ethereum Settlement \u2014 Rialto",
+      "title": "AP2 for Ethereum Settlement: Rialto",
       "url": "https://hub.entethalliance.org/rialto-ap2-eth/",
-      "description": "My research on binding an AI agent\u2019s payment authorization to an exact Ethereum transaction. An individual research contribution, not an adopted standard."
+      "description": "How can an AI agent authorize one exact Ethereum payment? My research prototype."
     },
     {
       "title": "AI & Operations",
       "url": "https://helloredwan.me/ai-operations.html",
-      "description": "How I use AI to build tools and operational systems."
+      "description": "How I use AI to turn recurring work into useful tools."
     },
     {
       "title": "State of Privacy on Ethereum for Enterprise",
       "url": "https://hub.entethalliance.org/wg-privacy/privacy-report.html",
-      "description": "A collaborative EEA working-group report; I led the working group and built its interactive web presentation."
+      "description": "A collaborative EEA report. I led the working group and built the web experience."
     }
-  ]
+  ],
+  "hub_editorial": {
+    "Ethereum Intelligence": {
+      "description": "A place for institutions to understand Ethereum changes and bring their questions to the community."
+    },
+    "Digital Asset Policy Monitor": {
+      "description": "A weekly view of digital asset policy. 94 signals across 24 editions through September 2026.",
+      "title": "Policy Friday: digital asset policy",
+      "source": "https://hub.entethalliance.org/ops-policy-friday/",
+      "verified": "2026-10-07"
+    },
+    "Institutional Requests & Requirements": {
+      "description": "Find consultations, RFIs, and tenders worth acting on. Checks 50+ public sources weekly, from central banks to procurement portals.",
+      "title": "EEA Prospector: RFI & RFP scanner",
+      "source": "https://prospector.entethalliance.org/",
+      "verified": "2026-10-07"
+    },
+    "Tokenized Asset Investor Eligibility Prototype": {
+      "description": "Can an investor reuse an eligibility check across issuers? Shibui explores ERC-3643 with Ethereum attestations."
+    },
+    "Ethereum Settlement for AI Agent Payments": {
+      "description": "Rialto explores how to tie an AI agent’s permission to one exact Ethereum payment."
+    },
+    "Directory of EEA Sites on GitHub Pages": {
+      "description": "One index for the EEA’s published tools, guides, and research sites."
+    },
+    "Ethereum for Institutions": {
+      "description": "An interactive starting point for teams trying to understand where Ethereum fits."
+    },
+    "Global Finance Infrastructure Map": {
+      "description": "Explore how money moves through the institutions and infrastructure behind global finance."
+    },
+    "AI Agents on Ethereum Guide": {
+      "description": "Explore how AI agents can use Ethereum for payments and coordination."
+    },
+    "Institutional Digital Asset Market Map": {
+      "description": "Navigate the companies and infrastructure serving institutional digital assets."
+    },
+    "Digital Asset Custody Guide": {
+      "description": "Compare custody models and understand the choices behind holding digital assets."
+    },
+    "Ethereum Layer 2 Network Map": {
+      "description": "Find your bearings across Ethereum’s Layer 2 networks."
+    },
+    "Ethereum Solution Catalog": {
+      "description": "Browse Ethereum solutions by the problem you’re trying to solve."
+    },
+    "EthTrust Smart Contract Security Standard": {
+      "description": "A web guide to the EEA’s shared requirements for smart contract security."
+    },
+    "Crosschain Interoperability Standard": {
+      "description": "Explore the EEA’s shared framework for connecting blockchain networks."
+    },
+    "Ethereum Privacy Technology Report": {
+      "description": "Compare approaches to privacy on Ethereum in an interactive working-group report."
+    }
+  }
 }
