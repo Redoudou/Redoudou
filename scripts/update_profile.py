@@ -68,6 +68,8 @@ def generate(repos, overrides):
             demo = None  # A template homepage may belong to its upstream author.
         if override.get('demo'):
             demo = safe_url(override['demo'])
+        if demo == override.get('blocked_demo'):
+            demo = None
         links = f'<a href="{html.escape(url, quote=True)}">Code →</a>'
         if demo:
             links += f' &nbsp;·&nbsp; <a href="{html.escape(demo, quote=True)}">Open project ↗</a>'

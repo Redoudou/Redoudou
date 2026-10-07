@@ -12,7 +12,7 @@ Brooklyn · [Enterprise Ethereum Alliance](https://entethalliance.org/) · Previ
 <table>
 <tr>
 <td width="50%" valign="top"><img src="assets/zk.svg" alt="Zero-knowledge &amp; Ethereum" width="420"><br>
-<p><strong><a href="https://github.com/Redoudou/sprinter-demo">Sprinter Playground</a></strong><br>Interactive journeys through liquidity, credit, and cross-chain transfers, with a separate live Credit workspace.<br><a href="https://github.com/Redoudou/sprinter-demo">Code →</a> &nbsp;·&nbsp; <a href="https://helloredwan.me/sprinter-demo/">Open project ↗</a></p>
+<p><strong><a href="https://github.com/Redoudou/sprinter-demo">Sprinter Playground</a></strong><br>Interactive journeys through liquidity, credit, and cross-chain transfers, with a separate live Credit workspace.<br><a href="https://github.com/Redoudou/sprinter-demo">Code →</a></p>
 </td>
 <td width="50%" valign="top"><img src="assets/housing.svg" alt="Housing &amp; civic tech" width="420"><br>
 <p><strong><a href="https://github.com/Redoudou/housingproof">Housingproof</a></strong><br>A new housing project, just getting started.<br><a href="https://github.com/Redoudou/housingproof">Code →</a></p>

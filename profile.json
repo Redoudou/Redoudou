@@ -16,7 +16,8 @@
   "870913967": {
     "category": "zk",
     "title": "Sprinter Playground",
-    "description": "Interactive journeys through liquidity, credit, and cross-chain transfers, with a separate live Credit workspace."
+    "description": "Interactive journeys through liquidity, credit, and cross-chain transfers, with a separate live Credit workspace.",
+    "blocked_demo": "https://helloredwan.me/sprinter-demo/"
   },
   "1306131935": {
     "category": "tools",
