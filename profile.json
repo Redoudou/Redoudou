@@ -33,5 +33,10 @@
     "category": "housing",
     "title": "Housingproof",
     "description": "RPIE privacy prototype: exploring how an agency could answer fixed questions about a housing filing without receiving the filing. Synthetic data; working ZK proof generation is not yet implemented."
+  },
+  "1354274257": {
+    "category": "zk",
+    "title": "Green Light",
+    "description": "A personal ZK age-verification prototype: proving you are over 21 without handing a venue a copy of your ID. Experimental, not a production service."
   }
 }

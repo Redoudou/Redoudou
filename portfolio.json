@@ -1,12 +1,6 @@
 {
   "projects": [
     {
-      "title": "Green Light",
-      "category": "zk",
-      "description": "A personal ZK age-verification prototype: proving you are over 21 without handing a venue a copy of your ID. Experimental, not a production service.",
-      "label": "Public website link coming soon"
-    },
-    {
       "title": "Lease on the Block",
       "category": "housing",
       "description": "An interactive housing-accountability demo connecting rent records, public benefits, tenants, owners, and agencies. Fictional data and a simulated ledger.",
@@ -14,9 +8,24 @@
     }
   ],
   "eea": [
-    {"title":"The EIP Matrix", "url":"https://intelligence.entethalliance.org/eip-matrix.html", "section":"More tools I built", "description":"Ethereum proposals translated into implications for infrastructure, product design, cost, and risk."},
-    {"title":"Ethereum Gas Fee Calculator", "url":"https://intelligence.entethalliance.org/gas-simulator.html", "section":"More tools I built", "description":"An interactive model of proposed EIP-2780 transaction-cost changes."},
-    {"title":"Ethereum Atlas", "url":"https://intelligence.entethalliance.org/atlas.html", "section":"More tools I built", "description":"A map of Ethereum upgrade participants, decisions, and institutional participation."}
+    {
+      "title": "The EIP Matrix",
+      "url": "https://intelligence.entethalliance.org/eip-matrix.html",
+      "section": "More tools I built",
+      "description": "Ethereum proposals translated into implications for infrastructure, product design, cost, and risk."
+    },
+    {
+      "title": "Ethereum Gas Fee Calculator",
+      "url": "https://intelligence.entethalliance.org/gas-simulator.html",
+      "section": "More tools I built",
+      "description": "An interactive model of proposed EIP-2780 transaction-cost changes."
+    },
+    {
+      "title": "Ethereum Atlas",
+      "url": "https://intelligence.entethalliance.org/atlas.html",
+      "section": "More tools I built",
+      "description": "A map of Ethereum upgrade participants, decisions, and institutional participation."
+    }
   ],
   "writing": [
     {
@@ -25,9 +34,9 @@
       "description": "My working research draft on Ethereum governance, responsibility, participation, and resilience. Personal research, not an EEA position."
     },
     {
-      "title": "AP2 for Ethereum Settlement — Rialto",
+      "title": "AP2 for Ethereum Settlement \u2014 Rialto",
       "url": "https://hub.entethalliance.org/rialto-ap2-eth/",
-      "description": "My research on binding an AI agent’s payment authorization to an exact Ethereum transaction. An individual research contribution, not an adopted standard."
+      "description": "My research on binding an AI agent\u2019s payment authorization to an exact Ethereum transaction. An individual research contribution, not an adopted standard."
     },
     {
       "title": "AI & Operations",
