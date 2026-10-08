@@ -56,7 +56,7 @@ Tools, research, and experiments grouped by the problems they tackle. Labels sho
 <tr>
 <td width="50%" valign="top"><img src="assets/housing.svg" alt="Housing &amp; civic tech" width="420"><br>
 <p><strong>Lease on the Block</strong> <sub>Personal · Demo</sub><br>Follow the links between rent, public benefits, and building accountability. An interactive demo with fictional data.<br><a href="https://leaseontheblock.care/">Visit website ↗</a></p>
-<p><strong><a href="https://github.com/Redoudou/housingproof">Housingproof</a></strong> <sub>Personal · Code</sub><br>Can NYC agencies get answers from an RPIE filing without seeing it? A demo with synthetic data; ZK proofs are still to come.<br><a href="https://github.com/Redoudou/housingproof">Code →</a></p>
+<p><strong><a href="https://github.com/Redoudou/housingproof">Housingproof</a></strong> <sub>Personal · Code</sub><br>Can NYC agencies get answers from an RPIE filing without seeing it? A demo with synthetic data; ZK proofs are still to come.<br><a href="https://github.com/Redoudou/housingproof">Code →</a> &nbsp;·&nbsp; <a href="https://helloredwan.me/housingproof/">Open project ↗</a></p>
 </td>
 <td width="50%" valign="top"><img src="assets/tools.svg" alt="Everyday tools &amp; learning" width="420"><br>
 <p><strong><a href="https://github.com/Redoudou/frame-of-mind">Frame of Mind</a></strong> <sub>Personal · Code</sub><br>Frame of Mind : local web app that turns one photo into a pixel-exact print order for your print shop<br><a href="https://github.com/Redoudou/frame-of-mind">Code →</a> &nbsp;·&nbsp; <a href="https://redoudou.github.io/frame-of-mind/">Open project ↗</a></p>
